@@ -80,6 +80,7 @@ for(i=0;i<data.length;i++)
 {
 	switch(data[i].catId)
 	{
+	    
 		case "1" : cat[0].appendChild(fillItemCard(data[i]));
 				 break;
 		case "2" : cat[1].appendChild(fillItemCard(data[i]));
@@ -88,19 +89,36 @@ for(i=0;i<data.length;i++)
 				 break;
 		case "4" : cat[3].appendChild(fillItemCard(data[i]));
 				 break;
-        case "6" : cat[4].appendChild(fillItemCard(data[i]));
+        case "5" : cat[4].appendChild(fillItemCard(data[i]));
+				 break;				 
+        case "6" : cat[5].appendChild(fillItemCard(data[i]));
 				 break;
-		case "7" : cat[5].appendChild(fillItemCard(data[i]));
+		case "7" : cat[6].appendChild(fillItemCard(data[i]));
 				 break;
-		case "8" : cat[6].appendChild(fillItemCard(data[i]));
+		case "8" : cat[7].appendChild(fillItemCard(data[i]));
 				 break;
-		case "9" : cat[7].appendChild(fillItemCard(data[i]));
+		case "9" : cat[8].appendChild(fillItemCard(data[i]));
 				 break;
-		case "10" : cat[8].appendChild(fillItemCard(data[i]));
+		case "10" : cat[9].appendChild(fillItemCard(data[i]));
 				 break;
-		case "11" : cat[9].appendChild(fillItemCard(data[i]));
+		case "11" : cat[10].appendChild(fillItemCard(data[i]));
 				 break;
-		
+    	case "12" : cat[11].appendChild(fillItemCard(data[i]));
+				 break;
+		case "13" : cat[12].appendChild(fillItemCard(data[i]));
+				 break;
+		case "14" : cat[13].appendChild(fillItemCard(data[i]));
+				 break;
+		case "15" : cat[14].appendChild(fillItemCard(data[i]));
+				 break;
+		case "16" : cat[15].appendChild(fillItemCard(data[i]));
+				 break;
+	    case "17" : cat[16].appendChild(fillItemCard(data[i]));
+				 break;
+		case "18" : cat[17].appendChild(fillItemCard(data[i]));
+				 break;
+		case "19" : cat[18].appendChild(fillItemCard(data[i]));
+				 break;
 	}
 
 }
@@ -123,7 +141,7 @@ function fillItemCard(data){
 	
 	let productPrice=document.createElement("p");
 	productPrice.setAttribute("class","productprice");
-	productPrice.appendChild(document.createTextNode(Number(data.itemPrice).toLocaleString('en-US') + " ل.ل"));
+	productPrice.appendChild(document.createTextNode(Number(data.itemPrice).toLocaleString('en-US') + " $"));
 	productDetail.appendChild(productName);
 	productDetail.appendChild(productEnglishName);
 	productDetail.appendChild(productPrice);

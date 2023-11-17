@@ -10,7 +10,7 @@ $con=mysqli_connect("localhost",
 	
 
 
-			$query="select * from items";
+			$query="SELECT itemId,itemName,itemNameEnglish,itemPrice,items.catId,catName FROM items,categories WHERE items.catId=categories.catId order by items.catId";
 			$result = mysqli_query($con, $query);
 			while($row = mysqli_fetch_assoc($result))
 			{$arr[] = $row;}

@@ -43,6 +43,16 @@ session_start();
 		       display:flex;
 		       flex-wrap:wrap;
 		   }
+		   .breakDiv{
+		    flex-basis: 100%;
+            width: 0;
+            margin-block:10px;
+            background-color:#eee;
+           
+           font-weight:bold;
+           padding:20px;
+		   
+		   }
 		   .btnUpdate{
 		       margin-top:10px;
 		       display:block;
@@ -122,7 +132,22 @@ var cat=document.getElementsByClassName("allItems");
 function addItems(data){
 for(i=0;i<data.length;i++)
 {
+if(i===0)
+{
+let divFirst=document.createElement("div");
+divFirst.setAttribute("class","breakDiv");
+divFirst.appendChild(document.createTextNode(data[i].catName));
+cat[0].appendChild(divFirst);    
+}
+let y=data[i].catId;    
 cat[0].appendChild(fillItemCard(data[i]));
+
+if(y!=data[i+1].catId){
+let div=document.createElement("div");
+div.setAttribute("class","breakDiv");
+div.appendChild(document.createTextNode(data[i+1].catName));
+cat[0].appendChild(div);
+}
 }
 }
 
@@ -179,6 +204,10 @@ function fillItemCard(data){
 	spn.setAttribute("class","itemName");
 	spn.appendChild(document.createTextNode(data.itemName));
 	
+	let spnCatId=document.createElement("span");
+	spnCatId.setAttribute("class","catIdDesc");
+	spnCatId.appendChild(document.createTextNode(data.catName));
+	
 	let txt=document.createElement("input");
 	txt.setAttribute("type","text");
 	txt.setAttribute("class","txtprice");
@@ -189,14 +218,19 @@ function fillItemCard(data){
 	txtName.setAttribute("class","txt");
 	txtName.setAttribute("value",data.itemName);
 	
+	
+	
 	itemDiv.appendChild(check);
 	itemDiv.appendChild(spn);
+	itemDiv.appendChild(spnCatId);
 	itemDiv.appendChild(txt);
 	itemDiv.appendChild(txtName);
+	
 	
 	return itemDiv;
 
 }
+
 </script>
 <!-- script for add new row button -->
 <script>

@@ -242,3 +242,13 @@ Stack trace:
 #0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
 #1 {main}
   thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[16-Sep-2023 16:19:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'catId' in order clause is ambiguous in /home4/sou2sore/public_html/adminAshmar/PHP/getItems.php:14
+Stack trace:
+#0 /home4/sou2sore/public_html/adminAshmar/PHP/getItems.php(14): mysqli_query(Object(mysqli), 'select * from i...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/adminAshmar/PHP/getItems.php on line 14
+[16-Sep-2023 16:35:30 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'sou2sore_jawad2022.catName' doesn't exist in /home4/sou2sore/public_html/adminAshmar/PHP/getItems.php:14
+Stack trace:
+#0 /home4/sou2sore/public_html/adminAshmar/PHP/getItems.php(14): mysqli_query(Object(mysqli), 'select * from i...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/adminAshmar/PHP/getItems.php on line 14
