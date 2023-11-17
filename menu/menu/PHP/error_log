@@ -1,0 +1,265 @@
+[05-May-2023 06:57:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(4): mysqli_connect('localhost', 'root', 'Nx8~GsY;D;{A', 'kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 06:57:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/getItems.php(4): mysqli_connect('localhost', 'root', 'Nx8~GsY;D;{A', 'kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/getItems.php on line 4
+[05-May-2023 06:58:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/getItems.php(4): mysqli_connect('localhost', 'root', 'Nx8~GsY;D;{A', 'kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/getItems.php on line 4
+[05-May-2023 06:58:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(4): mysqli_connect('localhost', 'root', 'Nx8~GsY;D;{A', 'kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 07:00:13 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(4): mysqli_connect('localhost', 'root', 'Nx8~GsY;D;{A', 'kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 07:02:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 5
+[05-May-2023 07:02:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 5
+[05-May-2023 07:02:40 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 5
+[05-May-2023 07:02:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/getItems.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/getItems.php on line 5
+[05-May-2023 07:02:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 5
+[05-May-2023 07:03:14 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/getItems.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/getItems.php on line 5
+[05-May-2023 07:07:59 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/getItems.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/getItems.php on line 5
+[05-May-2023 07:08:00 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 5
+[05-May-2023 07:10:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 5
+[05-May-2023 07:10:57 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/getItems.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/getItems.php on line 5
+[05-May-2023 07:11:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/getItems.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/getItems.php on line 5
+[05-May-2023 07:11:41 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/getItems.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/getItems.php on line 5
+[05-May-2023 07:11:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php:5
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/getItems.php(5): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/getItems.php on line 5
+[05-May-2023 07:11:52 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(4): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'Nx8~GsY;D;{A', 'sou2sore_kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 07:12:15 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/sou2sore/public_html/test/PHP/conn.php:3
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(3): mysqli_connect('localhost', 'root', '', 'kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 3
+[05-May-2023 07:12:18 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/sou2sore/public_html/test/PHP/conn.php:3
+Stack trace:
+#0 /home4/sou2sore/public_html/test/PHP/conn.php(3): mysqli_connect('localhost', 'root', '', 'kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/PHP/conn.php on line 3
+[05-May-2023 07:15:22 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/sou2sore/public_html/PHP/conn.php:3
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(3): mysqli_connect('localhost', 'root', '', 'kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 3
+[05-May-2023 07:16:26 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/sou2sore/public_html/PHP/conn.php:3
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(3): mysqli_connect('localhost', 'root', '', 'kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 3
+[05-May-2023 07:16:50 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home4/sou2sore/public_html/PHP/conn.php:3
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(3): mysqli_connect('localhost', 'root', '', 'kanana')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 3
+[05-May-2023 07:27:00 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/PHP/conn.php:3
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(3): mysqli_connect('localhost', 'root', 'g9[mezyb(H9M', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 3
+[05-May-2023 07:27:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/PHP/conn.php:3
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(3): mysqli_connect('localhost', 'root', 'g9[mezyb(H9M', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 3
+[05-May-2023 07:28:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(4): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'g9[mezyb(H9M', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 4
+[05-May-2023 07:37:22 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(4): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'g9[mezyb(H9M', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 4
+[05-May-2023 07:41:53 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(4): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'g9[mezyb(H9M', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 4
+[05-May-2023 07:42:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(4): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'jawad200584', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 4
+[05-May-2023 07:43:24 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(4): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'jawad200584', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 4
+[05-May-2023 07:44:17 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(4): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'jawad200584', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 4
+[05-May-2023 07:46:30 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/PHP/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/PHP/conn.php(4): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'jawad200584', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/PHP/conn.php on line 4
+[05-May-2023 07:52:30 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/connectionFolder/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/connectionFolder/conn.php(4): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'jawad200584', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/connectionFolder/conn.php on line 4
+[05-May-2023 07:55:04 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/connectionFolder/conn.php:4
+Stack trace:
+#0 /home4/sou2sore/public_html/test/connectionFolder/conn.php(4): mysqli_connect('localhost', '\t\r\nsou2sore_roo...', 'jawad200584', 'sou2sore_jawad2...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/test/connectionFolder/conn.php on line 4
+[05-May-2023 08:18:10 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php on line 3
+[05-May-2023 08:18:10 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 10
+[05-May-2023 08:18:10 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 11
+[05-May-2023 08:18:11 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:18:11 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:18:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:18:40 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:18:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:18:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:18:40 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php on line 3
+[05-May-2023 08:18:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 10
+[05-May-2023 08:18:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 11
+[05-May-2023 08:19:28 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:19:28 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:19:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:19:28 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php on line 3
+[05-May-2023 08:19:28 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 10
+[05-May-2023 08:19:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 11
+[05-May-2023 08:23:49 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:23:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:23:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:23:49 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php on line 3
+[05-May-2023 08:23:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 10
+[05-May-2023 08:23:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 11
+[05-May-2023 08:28:39 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:28:39 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:28:39 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:28:50 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php on line 3
+[05-May-2023 08:28:50 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 10
+[05-May-2023 08:28:50 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 11
+[05-May-2023 08:30:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:30:19 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:30:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:32:35 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:32:35 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:32:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:32:36 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:32:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:32:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:34:20 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:34:20 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:34:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:34:23 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:34:23 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:34:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:34:26 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:34:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/conn.php on line 12
+[05-May-2023 08:34:26 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/conn.php on line 13
+[05-May-2023 08:35:07 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/conn.php on line 4
+[05-May-2023 08:37:26 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/test/PHP/getItems.php on line 3
+[05-May-2023 08:37:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 10
+[05-May-2023 08:37:26 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/test/PHP/getItems.php on line 11
+[09-May-2023 10:05:52 America/Chicago] PHP Warning:  Undefined variable $arr in /home4/sou2sore/public_html/menu/PHP/getItems.php on line 17

@@ -1,0 +1,141 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+
+*{
+padding:0px;
+margin:0px 
+}
+
+html{
+scroll-behavior:smooth;
+}
+body{
+    font-family: 'Cairo', sans-serif;
+}
+.container
+{
+width:80vw;
+margin:0 auto;
+}
+
+header{
+display:flex;
+gap:20px;
+margin-top:10px;
+}
+
+header img
+{
+width:150px;
+}
+.main .banner{
+background-image:url('../images/banner.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+height:359px;
+border:px solid green;
+}
+header ul{
+display:flex;
+list-style-type:none;
+bordeR:0px solid green;
+gap:5px;
+
+}
+header ul a{
+color:black;
+text-decoration:none;
+padding:5px 10px;
+display:inline-block;
+background-color:#eee;
+font-weight:bold;
+}
+.category{
+margin-top:20px;
+}
+.category h1{
+margin-bottom:20px;
+}
+
+.cats{
+	margin:10px 0px;
+	border-top:0px solid blue;
+	padding-top:20px;
+}
+.cat{
+display:grid;
+grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
+column-gap:20px;
+}
+
+.decoration{
+    
+    height:0px;
+    background-image: linear-gradient(to right,white 50%,black);
+    border-radius:5px;
+    margin-bottom:10px;
+
+}
+.heading_img{
+	border:0px solid green;
+	display:flex;
+	align-items:center;
+	gap:20px;
+}
+.heading_img img{
+	width:200px;
+	border-radius:10px;
+	
+}
+.englishname{
+    color:#394867;
+}
+.productname{
+    color:#212A3E;
+}
+.productprice{
+    color:#E21818;
+}
+.cat .product .product-img img{
+width:200px;
+}
+.product{
+	bordeR-bottom:5px solid #eee;
+	font-weight:bold;
+}
+
+@media only screen and (max-width:600px){
+    *{
+        overflow-x:hidden;
+    }
+    header{
+        justify-content:center;
+        height:calc(100vh - 150px);
+        align-items:center;
+    }
+	header ul{
+		flex-wrap:wrap;
+		justify-content:center;
+
+		
+	}
+	header ul li{
+		text-align:center;
+	}
+	.main .banner{
+	    MARGIN-TOP:0PX;
+    max-width:100%;
+    HEIGHT:150PX;
+    border:0px solid green;
+}
+h1{
+    font-size:1.5em;
+    
+}
+.heading_img img{
+	width:150px;
+	border-radius:10px;
+}
+	
+}

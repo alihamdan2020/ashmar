@@ -1,0 +1,244 @@
+[06-May-2023 05:06:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:33) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 66
+[06-May-2023 05:08:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:48) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 69
+[06-May-2023 05:09:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:48) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 69
+[06-May-2023 05:15:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:64) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 71
+[06-May-2023 05:15:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:64) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 71
+[06-May-2023 05:24:36 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 48
+[06-May-2023 05:45:21 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:45:21 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:45:21 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:45:58 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:45:58 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:45:58 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:46:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:46:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:46:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:47:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:47:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:47:49 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:48:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:48:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:48:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 57
+[06-May-2023 05:50:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:54) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 73
+[06-May-2023 05:51:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:54) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 73
+[06-May-2023 05:52:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:54) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 73
+[06-May-2023 05:53:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:54) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 73
+[06-May-2023 05:53:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:54) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 73
+[06-May-2023 05:54:47 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 56
+[06-May-2023 05:54:47 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 56
+[06-May-2023 05:54:47 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 56
+[06-May-2023 05:54:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:55) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 75
+[06-May-2023 05:55:25 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 56
+[06-May-2023 05:55:25 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 56
+[06-May-2023 05:55:25 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 56
+[06-May-2023 05:55:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:55) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 75
+[06-May-2023 05:57:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sou2sore/public_html/admin/PHP/update_insert.php:55) in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 76
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:43:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[06-May-2023 06:45:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 82
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 20
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 30
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 20
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 30
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 20
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 30
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 20
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 30
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 20
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 30
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 20
+[06-May-2023 06:46:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 30
+[06-May-2023 13:16:06 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 3
+[06-May-2023 13:16:06 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 10
+[06-May-2023 13:16:06 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 11
+[06-May-2023 13:16:09 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 3
+[06-May-2023 13:16:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 10
+[06-May-2023 13:16:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 11
+[06-May-2023 13:17:00 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 3
+[06-May-2023 13:17:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 10
+[06-May-2023 13:17:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 11
+[06-May-2023 13:18:07 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 3
+[06-May-2023 13:18:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 10
+[06-May-2023 13:18:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 11
+[06-May-2023 13:18:10 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user '	
+sou2sore_root'@'localhost' (using password: YES) in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 3
+[06-May-2023 13:18:10 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 10
+[06-May-2023 13:18:10 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 11
+[06-May-2023 13:23:30 America/Chicago] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 5
+[06-May-2023 13:23:53 America/Chicago] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 5
+[06-May-2023 13:24:26 America/Chicago] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 5
+[06-May-2023 13:25:07 America/Chicago] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 5
+[06-May-2023 13:56:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[06-May-2023 13:57:30 America/Chicago] PHP Parse error:  syntax error, unexpected '$selected' (T_VARIABLE), expecting '(' in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 16
+[06-May-2023 13:57:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$selected' (T_VARIABLE), expecting '(' in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 16
+[06-May-2023 13:57:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[06-May-2023 14:13:20 America/Chicago] PHP Warning:  file_get_contents(index.php): failed to open stream: No such file or directory in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 23
+[06-May-2023 14:14:04 America/Chicago] PHP Warning:  file_get_contents(index.php): failed to open stream: No such file or directory in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 23
+[06-May-2023 14:14:52 America/Chicago] PHP Warning:  file_get_contents(index.php): failed to open stream: No such file or directory in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 23
+[06-May-2023 14:14:52 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class DOMDocument could not be converted to string in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:35
+Stack trace:
+#0 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 35
+[06-May-2023 14:17:15 America/Chicago] PHP Parse error:  syntax error, unexpected '*' in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 24
+[06-May-2023 14:17:44 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class DOMDocument could not be converted to string in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:33
+Stack trace:
+#0 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 33
+[06-May-2023 14:23:30 America/Chicago] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 17
+[06-May-2023 14:23:30 America/Chicago] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 17
+[09-May-2023 10:05:59 America/Chicago] PHP Warning:  Undefined variable $arr in /home4/sou2sore/public_html/admin/PHP/getItems.php on line 18
+[09-May-2023 10:06:24 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S Salad')' at line 1 in /home4/sou2sore/public_html/admin/PHP/update_insert.php:72
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/update_insert.php(72): mysqli_query(Object(mysqli), 'INSERT INTO `it...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[09-May-2023 10:09:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S Salad')' at line 1 in /home4/sou2sore/public_html/admin/PHP/update_insert.php:72
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/update_insert.php(72): mysqli_query(Object(mysqli), 'INSERT INTO `it...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[09-May-2023 10:10:57 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S Salad')' at line 1 in /home4/sou2sore/public_html/admin/PHP/update_insert.php:72
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/update_insert.php(72): mysqli_query(Object(mysqli), 'INSERT INTO `it...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[09-May-2023 10:13:32 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S Salad')' at line 1 in /home4/sou2sore/public_html/admin/PHP/update_insert.php:72
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/update_insert.php(72): mysqli_query(Object(mysqli), 'INSERT INTO `it...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[09-May-2023 10:14:35 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S Salad')' at line 1 in /home4/sou2sore/public_html/admin/PHP/update_insert.php:72
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/update_insert.php(72): mysqli_query(Object(mysqli), 'INSERT INTO `it...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[09-May-2023 10:17:06 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S Salad')' at line 1 in /home4/sou2sore/public_html/admin/PHP/update_insert.php:72
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/update_insert.php(72): mysqli_query(Object(mysqli), 'INSERT INTO `it...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[09-May-2023 10:22:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S Salad')' at line 1 in /home4/sou2sore/public_html/admin/PHP/update_insert.php:72
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/update_insert.php(72): mysqli_query(Object(mysqli), 'INSERT INTO `it...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/update_insert.php on line 72
+[11-May-2023 05:12:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'key1' in 'where clause' in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 05:14:07 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'key1' in 'where clause' in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 05:14:36 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'key1' in 'where clause' in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:17:22 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key2 WHERE itemId =1.key1' at line 1 in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:19:36 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key2 WHERE itemId =1.key1' at line 1 in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:20:15 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'key2 WHERE itemId =1.key1' at line 1 in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:21:12 America/Chicago] PHP Warning:  Attempt to read property "key2" on string in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:21:12 America/Chicago] PHP Warning:  Attempt to read property "key1" on string in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:21:12 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE itemId =' at line 1 in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:21:50 America/Chicago] PHP Warning:  Array to string conversion in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 10
+[11-May-2023 07:22:55 America/Chicago] PHP Warning:  Array to string conversion in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 10
+[11-May-2023 07:22:58 America/Chicago] PHP Warning:  Array to string conversion in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 10
+[11-May-2023 07:23:53 America/Chicago] PHP Warning:  Array to string conversion in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 10
+[11-May-2023 07:23:55 America/Chicago] PHP Warning:  Array to string conversion in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 10
+[11-May-2023 07:23:57 America/Chicago] PHP Warning:  Array to string conversion in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 10
+[11-May-2023 07:25:37 America/Chicago] PHP Warning:  Attempt to read property "key2" on string in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 14
+[11-May-2023 07:25:37 America/Chicago] PHP Warning:  Attempt to read property "key1" on string in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 14
+[11-May-2023 07:25:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE itemId =' at line 1 in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:14
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(14): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 14
+[11-May-2023 07:44:04 America/Chicago] PHP Warning:  Attempt to read property "key2" on array in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:44:04 America/Chicago] PHP Warning:  Attempt to read property "key1" on array in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:44:04 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE itemId =' at line 1 in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:45:22 America/Chicago] PHP Warning:  Attempt to read property "key2" on array in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 14
+[11-May-2023 07:45:22 America/Chicago] PHP Warning:  Attempt to read property "key1" on array in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 14
+[11-May-2023 07:46:38 America/Chicago] PHP Warning:  Array to string conversion in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:46:38 America/Chicago] PHP Warning:  Array to string conversion in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:46:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Array.key1' in 'where clause' in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:46:39 America/Chicago] PHP Warning:  Array to string conversion in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:46:39 America/Chicago] PHP Warning:  Array to string conversion in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:46:39 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Array.key1' in 'where clause' in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 07:46:55 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 12
+[11-May-2023 08:06:03 America/Chicago] PHP Warning:  Attempt to read property "key1" on array in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 08:06:03 America/Chicago] PHP Warning:  Attempt to read property "key0" on array in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 08:06:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE itemId  like' at line 1 in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 08:07:29 America/Chicago] PHP Warning:  Attempt to read property "key1" on array in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 08:07:29 America/Chicago] PHP Warning:  Attempt to read property "key0" on array in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 08:07:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE itemId  like' at line 1 in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 08:07:50 America/Chicago] PHP Warning:  Attempt to read property "key1" on array in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 08:07:50 America/Chicago] PHP Warning:  Attempt to read property "key0" on array in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13
+[11-May-2023 08:07:50 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE itemId  like' at line 1 in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php:13
+Stack trace:
+#0 /home4/sou2sore/public_html/admin/PHP/php_checkbox.php(13): mysqli_query(Object(mysqli), 'UPDATE items SE...')
+#1 {main}
+  thrown in /home4/sou2sore/public_html/admin/PHP/php_checkbox.php on line 13

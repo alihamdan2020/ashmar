@@ -1,0 +1,51 @@
+[
+    {
+    "cat":"cat1",
+    "name":"حمص بطحينة",
+    "img":"homos.jpg",
+    "price":"2.3$"
+    },
+    {
+    "cat":"cat1",
+    "name":"متبل باضنجان",
+    "img":"mutabal.jpg",
+    "price":"2.3$"
+    },
+    {
+    "cat":"cat1",
+    "name":"فتة حمص",
+    "img":"homos.jpg",
+    "price":"2.3$"
+    },
+    {
+    "cat":"cat1",
+    "name":"فتة قريدس",
+    "img":"homos.jpg",
+    "price":"2.3$"
+    },
+    {
+    "cat":"cat1",
+    "name":"فتة لبن وطحينة",
+    "img":"homos.jpg",
+    "price":"2.3$"
+    },
+    {
+    "cat":"cat2",
+    "name":"فتة لبن وطحينة",
+    "img":"homos.jpg",
+    "price":"2.3$"
+    },
+    {
+    "cat":"cat2",
+    "name":"فتة لبن وطحينة",
+    "img":"homos.jpg",
+    "price":"2.3$"
+    },
+    {
+    "cat":"cat2",
+    "name":"فتة لبن وطحينة",
+    "img":"homos.jpg",
+    "price":"2.3$"
+    }
+    
+    ]
